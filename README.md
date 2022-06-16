@@ -9,3 +9,6 @@
 ## Deployment 
 
 ## How to Contribute 
+	Please fork this repositiry and then issue Pull requests for review 
+
+### Copyright
